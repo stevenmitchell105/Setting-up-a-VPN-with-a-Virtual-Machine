@@ -15,7 +15,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 10</b> (21H2)
 
 <h2>STEPS INCLUDED</h2>
 
